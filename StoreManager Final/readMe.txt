@@ -39,3 +39,6 @@ i) information exchanged over the network needs to be encrypted;
 
 ii) the system will only allow valid operation of each user. 
 For example, a customer user could not change product information; or could not see/cancel/change orders not made by his/her.
+
+Youtube link of system running.
+https://youtu.be/VdaFgobM0jw
