@@ -25,7 +25,7 @@ b. Model-View-Controller
 c. Client-Server
 
 3. This system is designed with the following object-oriented design patterns: Singleton; Adapter;
-
+.
 
 Youtube link of the program running:
 
