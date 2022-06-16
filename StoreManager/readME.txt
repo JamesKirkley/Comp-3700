@@ -23,3 +23,8 @@ a. Three-tier layers: Data Access; Business Logic, and User Interface.
 b. Model-View-Controller
 
 3. This system is designed with the following object-oriented design patterns: Singleton; Adapter;
+
+
+Youtube link of the program in action
+
+https://youtu.be/EWzv5oNO5Fc
