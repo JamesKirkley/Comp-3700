@@ -1,4 +1,4 @@
-This project aims to build a working prototype for the "Store Management System".
+This project aims to build a working prototype for the "Store Management System"
 
 1. It is a single user, local software application. That means, there is only one user (the "store manager" to interact with the system).
 
